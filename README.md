@@ -1,6 +1,7 @@
 # Face-Mask-Detector-Using-OpenCV-and-Python
 
-This project aim to solve that problem by automatically checking if a person is putting on face mask or not
+This project's aim is to solve the problem automatically by checking if a person is wearing face mask or not.
+
 # Framework used
 - Python
 - OpenCV
